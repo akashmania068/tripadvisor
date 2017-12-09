@@ -3,7 +3,7 @@ Suggesting Best Hotels on TripAdvisor
 
 Get Dataset from : http://nemis.isti.cnr.it/~marcheggiani/datasets/
 
-Description :=
+Description :-
 
 TripAdvisor Annotated
 Three equally experienced annotators provided sentence-level annotations of a subset of 500 randomly selected reviews from the
